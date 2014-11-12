@@ -1,0 +1,2 @@
+cordova-media-socket-stream
+===========================
